@@ -8,7 +8,7 @@ This project aims to To develop a web-based Risk Analysis System which will enab
 
 To install the project, follow these steps:
 
-1. Clone the repository: `git clone (link unavailable)
+1. Clone the repository: `git clone 
 2. Install dependencies: `npm install` (or `yarn install`)
 3. Start the project: `npm start` (or `yarn start`)
 
@@ -23,11 +23,11 @@ To use the project, follow these steps:
 
 We welcome contributions to the project! To contribute, follow these steps:
 
-1. Fork the repository: `git fork (link unavailable)
+1. Fork the repository: `git fork 
 2. Create a new branch: `git branch feature/your-feature`
 3. Make changes and commit: `git commit -m "Your commit message"`
 4. Push changes: `git push origin feature/your-feature`
-5. Submit a pull request: [link to pull request]
+5. Submit a pull request: 
 
 *License*
 
