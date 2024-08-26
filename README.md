@@ -31,7 +31,7 @@ We welcome contributions to the project! To contribute, follow these steps:
 
 *License*
 
-This project is licensed under the MIT License license.
+This project is licensed under the MIT License.
 
 *Acknowledgments*
 
