@@ -65,11 +65,11 @@ GitHub enhanced collaboration among team members by:
 ### 4.3 Documentation
 
 GitHub provided a platform for maintaining comprehensive project documentation:
--**README.md**: The README file was used to provide an overview of the project, setup instructions, and usage details.
--**CHANGELOG.md**: This was used as a detailed record of all significant changes made to the project over time.
--**CONTRIBUTING.md**: This served as a guide for contributors who wanted to participate in the development of a project. It outlined the procedures, guidelines, and best practices that contributors would follow to ensure that their contributions are consistent, effective, and align with the project's goals.
--**REQUIREMENTS.txt**: The file is a crucial component in managing the project's dependencies. It lists all the Python packages and their specific versions that are required to run the project.
--**Commit Messages**: Descriptive commit messages were maintained to provide context for each change, aiding in understanding the history of the project.
+- **README.md**: The README file was used to provide an overview of the project, setup instructions, and usage details.
+- **CHANGELOG.md**: This was used as a detailed record of all significant changes made to the project over time.
+- **CONTRIBUTING.md**: This served as a guide for contributors who wanted to participate in the development of a project. It outlined the procedures, guidelines, and best practices that contributors would follow to ensure that their contributions are consistent, effective, and align with the project's goals.
+- **REQUIREMENTS.txt**: The file is a crucial component in managing the project's dependencies. It lists all the Python packages and their specific versions that are required to run the project.
+- **Commit Messages**: Descriptive commit messages were maintained to provide context for each change, aiding in understanding the history of the project.
 
 ### 4.4 Continuous Integration and Deployment (CI/CD)
 
