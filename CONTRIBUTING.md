@@ -151,3 +151,9 @@ jobs:
     - name: Run tests
       run: pytest
 
+### Continuous Deployment
+We use Heroku or AWS Elastic Beanstalk for automatic deployments:
+
+The deployment pipeline triggers after a successful build on the main branch.
+Heroku Deployment
+Deployment to Heroku is configured in the CI pipeline:
