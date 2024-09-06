@@ -4,7 +4,7 @@
 
 ## *Overview*
 
-This project aims to To develop a web-based Risk Analysis System which will enable member institutions in financial sector to submit statutory monthly and quarterly returns online and ensure that the Deposit Corporation calculates different financial sound indicators for that member institution which will ensure the depositors are reimbursed part or all of their deposits in the unlikely event of a deposit taking institution’s failure. It is built using python and django framework.
+This project aims to develop a web-based Risk Analysis System which will enable member institutions in financial sector to submit statutory monthly and quarterly returns online and ensure that the Deposit Corporation calculates different financial sound indicators for that member institution which will ensure the depositors are reimbursed part or all of their deposits in the unlikely event of a deposit taking institution’s failure. It is built using python and django framework.
 
 ## *Installation*
 
