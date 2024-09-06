@@ -38,3 +38,7 @@ This project is licensed under the MIT License.
 ## *Acknowledgments*
 
 We would like to thank [list contributors or inspirations] for their contributions to the project.
+
+
+
+Tendai Gadagah is one of the contributer we would like to thank
