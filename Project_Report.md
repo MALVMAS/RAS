@@ -8,10 +8,14 @@ This report provides an overview of the learning process, challenges encountered
    
 ### 2.1 Initial Learning Phase
 
-At the beginning of the project, the focus was on understanding the core technologies and tools that would be used. This included:
+At the beginning of the project, the focus was on understanding the core technologies and tools that would be used. Our team embarked on this project with the goal of enhancing our collective skills in software development and project management. We began by understanding the project requirements and setting up our development environment.
+
+This included:
 - Learning Django packages, Database and ORM (Object-Relational Mapping)
 - Understanding software development methodologies like Agile.
 - Familiarizing with version control using Git and GitHub.
+
+Each team member took on specific roles, allowing us to leverage our individual strengths and learn from each other.
 
 ### 2.2 Development Phase
 
@@ -79,7 +83,7 @@ GitHub’s integration with CI/CD tools such as [Travis CI, GitHub Actions, etc.
 
 ## 5. CONCLUSION
    
-The project was a significant learning experience, with GitHub playing a central role in managing the challenges associated with software development. The use of GitHub’s features for version control, collaboration, documentation, and CI/CD greatly contributed to the project's success. Moving forward, the knowledge gained from this project will be invaluable in tackling future projects more effectively and efficiently.
+The project was a significant learning experience, with GitHub playing a central role in managing the challenges associated with software development. The use of GitHub’s features for version control, collaboration, documentation, and CI/CD greatly contributed to the project's success. Moving forward, the knowledge gained from this project will be invaluable in tackling future projects more effectively and efficiently. The challenges we faced helped us grow as developers, and GitHub's tools and features significantly facilitated our project's success.
 
 **Project Contributors**: [Malvin Masiye, Brian Tumbare, Tendai Gadagah, Vimbai Mukwekwezeke and Godknows Muwandi]
 
