@@ -37,8 +37,4 @@ This project is licensed under the MIT License.
 
 ## *Acknowledgments*
 
-We would like to thank [list contributors or inspirations] for their contributions to the project.
-
-
-
-Tendai Gadagah is one of the contributer we would like to thank
+We would like to thank [Brian Tinashe Tumbare, Malvern Masiye, Tendai Gadagah, Vimbai Mukwekwezeke and Godknows Muwandi] for their contributions to the project.
